@@ -1,0 +1,8 @@
+.article {
+    padding: 0px 0px 50px 50px;
+    background-color: rgba(0, 48, 22);
+}
+
+.article img{
+    border-radius: 33px;
+}
